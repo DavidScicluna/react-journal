@@ -12,6 +12,6 @@ To Visit App:
 ## Dependencies
   * [Icons from Material Design](https://material.io/resources/icons/)
   * [UI Components from Material-UI](https://material-ui.com)
-  * [Draft JS from Facebook]](https://draftjs.org)
+  * [Draft JS from Facebook](https://draftjs.org)
   * [Draft JS Plugins](https://www.draft-js-plugins.com)
   * [Create React App from Facebook](https://create-react-app.dev)
