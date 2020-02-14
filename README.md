@@ -3,7 +3,7 @@
 Journal is a rich text editor that allows the user to write notes with text, images, links & colors and save for later use. Built with [React JS](https://reactjs.org). 
 
 ## Usage
-  To use the rich text features and apply them to the desired text, select the text by clicking on the text/paragraph and a toolbar will popup.
+  To use the rich text features and apply them to the desired text, select the text by clicking on the text and a toolbar will popup.
 
 ## Installation and Setup Instructions
 To Visit App:
