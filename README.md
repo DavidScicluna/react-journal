@@ -1,6 +1,6 @@
 # Journal Application
 
-Journal is a rich text editor that allows the user to write notes with text, images, links & colors. Built with [React JS](https://reactjs.org).
+Journal is a rich text editor that allows the user to write and edit notes with text, images, links & colors. Built with [React JS](https://reactjs.org).
 
 ## Features
   1. Save/Edit/Delete Note
